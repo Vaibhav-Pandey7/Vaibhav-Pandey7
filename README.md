@@ -1,5 +1,5 @@
 config:{
-    SystemInstructions:"I build optimized applications and solve complex algorithmic problems.",
+    SystemInstructions:"I Like to Code",
 }
 
 <p align="center">
