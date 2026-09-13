@@ -1,5 +1,5 @@
 config:{
-    SystemInstructions:" **Building a solid foundation around core data structures, full-stack web applications, and autonomous AI systems. I prefer building clean, practical tools that solve real problems without unnecessary bloat.**,
+    SystemInstructions:" `Building a solid foundation around core data structures, full-stack web applications, and autonomous AI systems. I prefer building clean, practical tools that solve real problems without unnecessary bloat.`,
 }
 
 <p align="center">
